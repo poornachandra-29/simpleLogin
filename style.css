@@ -1,0 +1,32 @@
+#er{
+   
+    margin-bottom: 10px;
+     border-top: 100px; 
+    background-color:#DDA853;
+    place-items: center;
+    width:200px;
+    height :180px;
+    /* border-radius: 15%; */
+}
+#container{
+    display :flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color:#27548A;
+}
+ .space{
+    margin-bottom: 10px;
+    /* margin: 50px;
+    margin-bottom: 25px; */
+} 
+#button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:75px;
+    border-radius: 50%;
+    background-color: #183B4E;
+    color:aliceblue;
+}
+
